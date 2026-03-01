@@ -50,7 +50,7 @@ a {
     display: inline-block;  
     padding: 2px 65px;
     background-color: gainsboro;
-    color: purple;
+    color: black;
     text-decoration: none;
     border-radius: 6px;
     margin-top: 100px;
@@ -121,4 +121,5 @@ width: 50%;
   height: 1px;
   background-color: gainsboro;
   margin: 15px auto; 
+
 }
