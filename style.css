@@ -1,0 +1,124 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 100px;
+    margin-right: 350px;
+}
+
+h6 {
+    text-align: center;
+    margin-right: 386px;
+    margin-top: 10px;
+}
+
+p {
+    text-align: center;
+    margin-right: 470px;
+    margin-top: 15px;
+    font-size: 10px;
+}
+
+.imtihon {
+    text-align: center;
+    margin-left: 165px;
+}
+
+.carrer {
+    text-align: center;
+    margin-left: 35px;
+    margin-top: -10px;
+    margin-top: 5px;
+}
+
+
+a {
+    display: inline-block;  
+    padding: 2px 65px;
+    background-color: gainsboro;
+    color: purple;
+    text-decoration: none;
+    border-radius: 6px;
+    margin-top: 100px;
+    margin-left: 340px;       
+    transition: 0.3s ease;
+}
+
+a:hover {
+    background-color: gainsboro;
+}
+
+img {
+    margin-left: 100px;
+    border-radius: 400px;
+    margin-top: -150px;
+}
+
+.skill {
+    margin-top: 200px;
+    margin-right: 400px;
+}
+
+.sets {
+    margin-top: 70px;
+    margin-right: 450px;
+}
+
+.chiziq {
+width: 50%;
+  height: 1px;
+  background-color: gainsboro;
+  margin: 15px auto; 
+}
+
+.btn {
+    background-color: aquamarine;
+    width: 30%;
+    margin: 0 auto;
+    margin-left: 320px;
+    border-radius: 4px;
+}
+
+.tepa {
+    margin-right: 590px;
+    margin-top: -10px;
+}
+
+.Son {
+    margin-left: 580px;
+    margin-top: -10px;
+    color: grey;
+} 
+
+.A {
+    margin-left: 300px;
+    margin-top: 20px;
+    color: grey;
+}
+
+.Exspert {
+    margin-left: 700px;
+    margin-top: -15px;
+    color: grey;
+}
+
+.chiziq2 {
+    width: 50%;
+  height: 1px;
+  background-color: gainsboro;
+  margin: 15px auto; 
+}
